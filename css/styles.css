@@ -1,0 +1,9 @@
+.sfcmClass {
+  padding: 10px;
+  width: 400px;
+  border: 1px solid black;
+}
+
+.classInfo {
+  font-weight: bold;
+}
